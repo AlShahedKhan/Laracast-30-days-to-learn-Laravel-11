@@ -13,7 +13,7 @@
                     <x-form-field>
                         <x-form-label for="title">Title</x-form-label>
                         <div class="mt-2">
-                            <x-form-i nput name="title" id="title" placeholder="CEO" required />
+                            <x-form-input name="title" id="title" placeholder="CEO" required />
                             <x-form-error name='title' />
                         </div>
                     </x-form-field>
